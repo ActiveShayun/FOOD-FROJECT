@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "img": "https://i.ibb.co.com/gJDmjbX/klara-kulikova-5eoiyh-GLFb4-unsplash.jpg",
+        "price": "230",
+        "description": "Classic Margherita pizza with fresh mozzarella, tomatoes, and basil",
+        "time": "20 minutes",
+        "calories": 800
+    },
+    {
+        "id": 2,
+        "name": "Chicken Biryani",
+        "img": "https://i.ibb.co.com/Cv2YDJb/ckiken.jpg",
+        "price": "200",
+        "description": "Fragrant basmati rice with tender chicken, spices, and herbs",
+        "time": "30 minutes",
+        "calories": 900
+    },
+    {
+        "id": 3,
+        "name": "Kacchi Biryani",
+        "img": "https://i.ibb.co.com/hFTL85f/kacci.jpg",
+        "price": "270",
+        "description": "Authentic kacchi biryani with marinated mutton, rice, and saffron",
+        "time": "35 minutes",
+        "calories": 1000
+    },
+    {
+        "id": 4,
+        "name": "Gulab Jamun",
+        "img":"https://i.ibb.co.com/sHGKCN5/sweet.webp",
+        "price": "500",
+        "description": "Soft, deep-fried dough balls soaked in sweet sugar syrup",
+        "time": "10 minutes",
+        "calories": 300
+    },
+    {
+        "id": 5,
+        "name": "Cool Drink",
+         "img":"https://i.ibb.co.com/FDsHtBb/drink.webp",
+         "price": "70",
+        "description": "Chilled refreshing drink with a choice of cola, lemon, or orange flavors",
+        "time": "2 minutes",
+        "calories": 150
+    },
+    {
+        "id": 6,
+        "name": "Beef Teheri",
+        "img": "https://i.ibb.co.com/92my7Lb/teheri.png",
+        "price": "250",
+        "description": "Spicy beef tehari with basmati rice, seasoned with aromatic spices",
+        "time": "25 minutes",
+        "calories": 850
+    }
+]
